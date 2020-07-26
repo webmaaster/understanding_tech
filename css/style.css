@@ -1,0 +1,17 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: red;
+
+}
+
+p {
+  background-color: green;
+  color: gold;
+  margin: 25px;
+  padding: 50px;
+  border: 1px solid blue;
+  border-radius: 100px;
+}
